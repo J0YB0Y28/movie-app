@@ -1,4 +1,4 @@
-Interface d'un site web pour regarder des films
+Interface d'un site web pour regarder des films 🍿.
 
 Voici le lien pour y accéder : 
 https://j0yb0y28.github.io/movie-app/
